@@ -8,4 +8,4 @@ function factorial(n) {
     while(n) x *= n--;
     return x;
 }
-console.log(factorial(5));
+
